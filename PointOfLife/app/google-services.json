@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "718490225087",
+    "firebase_url": "https://pointoflife-3210c.firebaseio.com",
+    "project_id": "pointoflife-3210c",
+    "storage_bucket": "pointoflife-3210c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718490225087:android:b482aca438a4aad5",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.pointoflife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718490225087-g9shvjga004a4s4k4tgs8grjr9dglihr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyW2hJTv2v_AgcR2Y68tegD0svoht_Evc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
